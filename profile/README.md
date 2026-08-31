@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/harlin-profile-header.svg" alt="HarLin Consulting — Exploration for a Brighter Future" width="100%">
+  <img src="./assets/harlin-profile-header.png" alt="HarLin Consulting — Exploration for a Brighter Future" width="100%">
 </p>
 
 # HarLin Consulting Pty Ltd
